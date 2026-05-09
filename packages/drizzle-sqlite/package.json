@@ -1,6 +1,6 @@
 {
   "name": "drizzle-sqlite",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Drizzle-orm Node.js builtin SQLite driver",
   "keywords": [
     "drizzle-orm",
