@@ -1,7 +1,7 @@
 {
   "name": "drizzle-sqlite",
   "version": "0.0.0",
-  "description": "Drizzle-orm node builtin sqlite support",
+  "description": "Drizzle-orm Node.js builtin SQLite driver",
   "keywords": [
     "drizzle-orm",
     "sqlite"
@@ -30,6 +30,14 @@
   },
   "module": "dist/index.mjs",
   "types": "dist/index.d.mts",
+  "typesVersions": {
+    "*": {
+      "*": [
+        "./dist/*",
+        "./*"
+      ]
+    }
+  },
   "files": [
     "dist"
   ],
@@ -37,6 +45,7 @@
     "build": "tsdown",
     "test": "vitest",
     "test:ci": "vitest --run",
+    "test:coverage": "vitest run --coverage",
     "typecheck": "tsc --noEmit"
   },
   "peerDependencies": {
