@@ -35,6 +35,9 @@
     "test:ci": "vitest --run",
     "typecheck": "tsc --noEmit"
   },
+  "peerDependencies": {
+    "drizzle-orm": "^0.45.2"
+  },
   "engines": {
     "node": ">=v24.0.0"
   }
