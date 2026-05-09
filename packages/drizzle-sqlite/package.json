@@ -1,8 +1,11 @@
 {
   "name": "drizzle-sqlite",
   "version": "0.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Drizzle-orm node builtin sqlite support",
+  "keywords": [
+    "drizzle-orm",
+    "sqlite"
+  ],
   "homepage": "https://github.com/yjl9903/drizzle-sqlite#readme",
   "bugs": {
     "url": "https://github.com/yjl9903/drizzle-sqlite/issues"
