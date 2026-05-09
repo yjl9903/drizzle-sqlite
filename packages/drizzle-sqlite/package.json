@@ -22,6 +22,10 @@
     ".": {
       "types": "./dist/index.d.mts",
       "import": "./dist/index.mjs"
+    },
+    "./migrator": {
+      "types": "./dist/migrator.d.mts",
+      "import": "./dist/migrator.mjs"
     }
   },
   "module": "dist/index.mjs",
