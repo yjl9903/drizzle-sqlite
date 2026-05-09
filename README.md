@@ -1,6 +1,6 @@
 # drizzle-sqlite
 
-[![version](https://img.shields.io/npm/v/breadc?label=drizzle-sqlite)](https://www.npmjs.com/package/drizzle-sqlite)
+[![version](https://img.shields.io/npm/v/drizzle-sqlite?label=drizzle-sqlite)](https://www.npmjs.com/package/drizzle-sqlite)
 [![CI](https://github.com/yjl9903/drizzle-sqlite/actions/workflows/ci.yml/badge.svg)](https://github.com/yjl9903/drizzle-sqlite/actions/workflows/ci.yml)
 
 Drizzle-orm Node.js builtin SQLite `node:sqlite` driver.
