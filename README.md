@@ -49,7 +49,7 @@ db.$client.close();
 
 ## Credits
 
-Thanks to https://github.com/drizzle-team/drizzle-orm/pull/4346
+Thanks to [drizzle-orm #4346](https://github.com/drizzle-team/drizzle-orm/pull/4346).
 
 ## License
 

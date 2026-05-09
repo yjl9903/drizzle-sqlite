@@ -47,6 +47,10 @@ console.log(ada, lin);
 db.$client.close();
 ```
 
+## Credits
+
+Thanks to [drizzle-orm #4346](https://github.com/drizzle-team/drizzle-orm/pull/4346).
+
 ## License
 
 MIT License © 2026 [XLor](https://github.com/yjl9903)
