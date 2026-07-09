@@ -13,7 +13,7 @@
     "preversion": "turbo run test:ci"
   },
   "devDependencies": {
-    "@types/node": "^25.9.4",
+    "@types/node": "^25.9.5",
     "@vitest/coverage-v8": "^4.1.10",
     "bumpp": "latest",
     "drizzle-kit": "^0.31.10",
